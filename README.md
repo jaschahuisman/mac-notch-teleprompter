@@ -4,7 +4,9 @@ A simple native macOS teleprompter that hangs from your Mac's notch. Controls si
 either side of the notch; the scrolling script extends below it; a built‑in recorder
 captures video of you through the camera and saves it to a folder you choose.
 
-> **Requirements:** macOS 13 (Ventura) or later, Apple Silicon (M‑series) Mac.
+> **Requirements:** macOS 13 (Ventura) or later. Universal binary — runs on both Apple
+> Silicon and Intel Macs. (A notch is optional; on non‑notch Macs the panel docks centered
+> at the top of the screen.)
 
 ## Install (download)
 
