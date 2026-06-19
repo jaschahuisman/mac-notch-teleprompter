@@ -1,0 +1,10 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Build output (the .app is shipped as a release asset, not committed)
+dist/
+
+# macOS
+.DS_Store
